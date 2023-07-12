@@ -1,7 +1,8 @@
 # New-York-2022-PM-2.5-Data-Analysis
 A statistical data analysis on PM 2.5 for New York in 2022 with Python.
 
-1.	Data Cleaning 
+1.	Data Cleaning
+</br>
 •	Removing Duplicates
 •	Dealing with missing values
 •	Dealing with outliers
