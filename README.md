@@ -9,7 +9,7 @@ A statistical data analysis on PM 2.5 for New York in 2022 with Python.
 
 •	Dealing with outliers
 
-3.	Descriptive Statistics
+2.	Descriptive Statistics
 
 •	Frequency
 
@@ -30,6 +30,6 @@ A statistical data analysis on PM 2.5 for New York in 2022 with Python.
 •	Kurtosis
 
 
-4.	Inferential Statistics
+3.	Inferential Statistics
 
 •	2 Sample T-Test
